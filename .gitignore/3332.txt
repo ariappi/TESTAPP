@@ -1,0 +1,3 @@
+144: (hostname)
+"walla\.co\.il$"
+"wcdn\.co\.il$"
